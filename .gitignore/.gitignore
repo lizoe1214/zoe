@@ -1,0 +1,13 @@
+Question 1:
+
+An information source generates four messages m1, m2, m3 and m4 with probabilities of 1/2, 1/8, 1/8 and 1/4 respectively. Determine entropy of the system.
+
+Ans:
+
+H = (1/2)log2(2) + (1/8)log2(8) + (1/8)log2(8) + (1/4)log2(4) 
+= 1/2 + 3/8 +3/8 + 1/2 
+= 7/4 (bits/message).
+Question 2:
+
+Determine the entropy of above example (question 1), if the probability of above messages (in question 1) are equally.
+
