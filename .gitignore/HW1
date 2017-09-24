@@ -11,3 +11,21 @@ Question 2:
 
 Determine the entropy of above example (question 1), if the probability of above messages (in question 1) are equally.
 
+I = 0
+如果P = 1 則 
+I =∞ 
+如果P = 0
+I和P的關係
+I = log 2（1 / P）
+
+I = log 2（1 / P） 
+= log 2（1 /（P 1 P 2 P 3 ... P k）） 
+= log 2（1 / P 1）+ log 2（1 / P 2）+ .. + log 2（1 / P k） 
+= I 1 + I 2 + ... + I k
+
+I T = Lp 1 log（1 / p 1）+ Lp 2 log（1 / p 2）+ ... + Lp k log / p k） 
+=Σ{i = 1..k} Lp i log（1 / p i） 
+
+所以平均
+H = I T / L =Σ{i = 1..k} P i log 2（1 / P i）
+
