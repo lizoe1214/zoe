@@ -4,8 +4,11 @@ Part I: ARP request message
 ![image](https://github.com/lizoe1214/zoe/blob/master/1.JPG?raw=true)
 
 a. the hardware type.
+
 A:Ethernet (1)
+
 b. the protocol type.
+
 A:IPv4 (0x0800)
 c. the hardware length.
 A:6
